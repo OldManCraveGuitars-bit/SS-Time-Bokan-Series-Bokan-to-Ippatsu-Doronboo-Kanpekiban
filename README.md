@@ -11,7 +11,7 @@
 
 ## 다운로드
 
-[**V1.0 정식 배포 다운로드**](https://github.com/OldManCraveGuitars-bit/SS-Time-Bokan-Series-Bokan-to-Ippatsu-Doronboo-Kr/releases/tag/v1.0)
+[**V1.0 정식 배포 다운로드**](https://github.com/OldManCraveGuitars-bit/SS-Time-Bokan-Series-Bokan-to-Ippatsu-Doronboo-Kanpekiban-Kr/releases/tag/v1.0)
 
 | 파일 | 내용 |
 |---|---|
